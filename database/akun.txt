@@ -1,0 +1,24 @@
+AKUN LOGIN
+
+Admin : localhost/ta-2021/admin
+*username : 0
+*password : 0
+
+Officer: localhost/ta-2021/
+*loket
+  -pake no nik	: 990123451
+  -password	: 0
+*GA
+  -pake no nik	: 990123452
+  -password	: 0
+*fin
+  -pake no nik	: 990123453
+  -password	: 0
+
+Supplier: localhost/ta-2021/
+*supplier1
+  -pake no telp	: 081000000
+  -password	: 0
+*supplier2
+  -pake no telp	: 082000000
+  -password	: 0
